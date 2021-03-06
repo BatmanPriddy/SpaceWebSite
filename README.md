@@ -1,2 +1,2 @@
 # Space Web Site
-Soon to be snazzy a space all about space!
+Soon to be snazzy space all about space!
