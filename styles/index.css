@@ -1,7 +1,11 @@
 body {
     background-color: #28292A;
-    font-size: 25px;
+    font-size: 1.5625rem; /* For accessibility */
     font-family: "Google Sans", sans-serif;
     color: #E3E3E3;
     overflow: hidden;
+}
+
+main {
+    padding: 10px 0px 0px 10px;
 }
